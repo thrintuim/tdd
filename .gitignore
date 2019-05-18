@@ -5,3 +5,4 @@ virtualenv
 __pycache__
 geckodriver.lgo
 geckodriver.log
+*.sublime*
