@@ -6,3 +6,5 @@ __pycache__
 geckodriver.lgo
 geckodriver.log
 *.sublime*
+/static
+.gitignore
