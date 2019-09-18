@@ -1,6 +1,8 @@
 db.sqlite3
 geckodriver.log
 virtualenv
+deploymentnotes.txt
+*.swp
 *.pyc
 __pycache__
 geckodriver.lgo
