@@ -10,3 +10,4 @@ geckodriver.log
 *.sublime*
 /static
 .gitignore
+.env
